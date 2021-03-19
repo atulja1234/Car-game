@@ -1,6 +1,13 @@
 # Car-game
 The project is about to develop a small car game. In this game the player has tendency to move his car to and fro, left and right on the road , and the enemy cars are coming from the oppisite directions at different positions and if the player car get in touch with the enemy car then the game will be over and the final score of the player will be shown on the screen. Again if the player wants to start a new game then he can start. The project is made by using javascript language.
 
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
